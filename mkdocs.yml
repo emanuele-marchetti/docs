@@ -1,0 +1,21 @@
+site_name: Emanuele Marchetti
+site_description: Technical writing portfolio by Emanuele Marchetti
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.top
+    - search.suggest
