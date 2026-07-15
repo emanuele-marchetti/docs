@@ -587,6 +587,7 @@
 
 
 <h1 id="left-join-why-your-rows-disappear-when-you-filter-in-the-where-clause">LEFT JOIN: why your rows disappear when you filter in the WHERE clause</h1>
+<p><strong>Applies to:</strong> SQL | <strong>Level:</strong> Intermediate | <strong>Time to resolve:</strong> 2 minutes</p>
 <h2 id="the-rule">The rule</h2>
 <p>In a LEFT JOIN, a condition on the optional side of the join belongs in the ON clause, not the WHERE clause.</p>
 <h2 id="the-scenario">The scenario</h2>
@@ -648,6 +649,7 @@ LEFT JOIN books b ON b.author_id = a.id AND b.year = 1957;
 </tr>
 </tbody>
 </table>
+<p><em>Written by Emanuele Marchetti</em></p>
 
 
 
