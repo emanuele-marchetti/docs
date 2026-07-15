@@ -1,6 +1,6 @@
 # The purchasing process stops without providing an explanation. Just a blank page
 
-__Applies to:__ Web checkout, customer account portal __Level:__ Beginner __Time to resolve:__ 5–10 minutes
+**Applies to:** Web checkout, customer account portal | **Level:** Beginner | **Time to resolve:** 5–10 minutes
 
 You select a digital service, correctly proceed to checkout, and press the purchase button. The page turns blank.
 

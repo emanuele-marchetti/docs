@@ -1,6 +1,6 @@
 # You moved a number into the destination, but the destination does not hold a number
 
-__Applies to:__ COBOL packed-decimal fields (COMP-3) __Level:__ Intermediate
+**Applies to:** COBOL packed-decimal fields (COMP-3) | **Level:** Intermediate | **Time to resolve:** 2 minutes
 
 You moved a number from one field to another. It should remain the same, but after the move, you see something different. There are no other operations to check. Just the MOVE.
 

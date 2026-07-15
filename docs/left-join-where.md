@@ -1,5 +1,7 @@
 # LEFT JOIN: why your rows disappear when you filter in the WHERE clause
 
+**Applies to:** SQL | **Level:** Intermediate | **Time to resolve:** 2 minutes
+
 ## The rule
 
 In a LEFT JOIN, a condition on the optional side of the join belongs in the ON clause, not the WHERE clause.
@@ -47,3 +49,5 @@ LEFT JOIN books b ON b.author_id = a.id AND b.year = 1957;
 | Ginzburg | NULL               |
 | Levi     | NULL               |
 | Morante  | NULL               |
+
+*Written by Emanuele Marchetti*
