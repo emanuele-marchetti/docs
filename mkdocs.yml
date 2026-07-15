@@ -19,3 +19,9 @@ theme:
     - navigation.instant
     - navigation.top
     - search.suggest
+nav:
+  - Home: index.md
+  - The blank checkout page: checkout-blank-page.md
+  - A list that hides its own length: station-list-limit.md
+  - "LEFT JOIN: disappearing rows": left-join-where.md
+  - "COMP-3: a number that isn't": comp3-move.md
