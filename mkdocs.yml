@@ -25,3 +25,6 @@ nav:
   - A list that hides its own length: station-list-limit.md
   - "LEFT JOIN: disappearing rows": left-join-where.md
   - "COMP-3: a number that isn't": comp3-move.md
+markdown_extensions:
+  - attr_list
+  - md_in_html
